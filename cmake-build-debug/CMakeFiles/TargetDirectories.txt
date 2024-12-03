@@ -1,0 +1,3 @@
+/Users/enushkevich/programming/C++/test/cmake-build-debug/CMakeFiles/test.dir
+/Users/enushkevich/programming/C++/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/enushkevich/programming/C++/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
